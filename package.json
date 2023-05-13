@@ -25,6 +25,6 @@
     "webpack-dev-server": "^4.13.3"
   },
   "dependencies": {
-    "dcbl": "^1.0.15"
+    "dcbl": "^1.0.16"
   }
 }

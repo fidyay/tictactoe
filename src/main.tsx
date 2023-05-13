@@ -1,4 +1,4 @@
-import { VirtualDOM, createElement, Component } from "dcbl";
+import { VirtualDOM, createElement } from "dcbl";
 import Game from "./Components/Game";
 import "./style.css";
 
